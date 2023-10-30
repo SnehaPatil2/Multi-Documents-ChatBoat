@@ -1,0 +1,6 @@
+2023-08-24 15:05:48, Info    LogSession: Starting a new log session at [E:\$SysReset\Logs]
+2023-08-24 15:05:48, Info    Session: Checking main OS for a test ID
+2023-08-24 15:05:48, Info    Telemetry: Checking [E:] for a test ID
+2023-08-24 15:05:48, Info    Registry: Loading SOFTWARE hive from offline OS E:\Windows
+2023-08-24 15:05:48, Info    Registry: Loading offline registry hive from [E:\Windows\System32\config\SOFTWARE]
+2023-08-24 15:05:48, Info    Telemetry: No test ID present

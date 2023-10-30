@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "dotenv",
+        "FAISS",
+        "FAISSDB",
+        "getbuffer",
+        "langchain",
+        "llms",
+        "streamlit",
+        "userinput",
+        "vectorstore",
+        "vectorstores"
+    ]
+}
